@@ -133,7 +133,7 @@ output application/json
   productID: "1783962",
   productName: "Mule Course",
   productProvider: "MU",
-  productDescription: "Complete Mule Developer Course"
+  productDescription: "Complete Mule Developer Course, and BF has completed this course"
 }]]></ee:set-payload>
             </ee:message>
         </ee:transform>
